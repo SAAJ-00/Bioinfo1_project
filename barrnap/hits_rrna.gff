@@ -1,0 +1,11 @@
+##gff-version 3
+Delta	barrnap:0.9	rRNA	696985	698514	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+Delta	barrnap:0.9	rRNA	699219	702096	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+Delta	barrnap:0.9	rRNA	2884192	2887069	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+Delta	barrnap:0.9	rRNA	2887774	2889303	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+Delta	barrnap:0.9	rRNA	2898734	2901611	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+Delta	barrnap:0.9	rRNA	2902389	2903918	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+Delta	barrnap:0.9	rRNA	4021053	4022582	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+Delta	barrnap:0.9	rRNA	4023287	4026164	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+Delta	barrnap:0.9	rRNA	4830343	4831872	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+Delta	barrnap:0.9	rRNA	4832525	4835402	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

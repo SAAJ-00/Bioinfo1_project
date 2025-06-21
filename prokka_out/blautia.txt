@@ -1,0 +1,8 @@
+organism: Blautia pseudococcoides strain 
+contigs: 1
+bases: 5498201
+CDS: 5135
+rRNA: 10
+repeat_region: 2
+tRNA: 68
+tmRNA: 1
